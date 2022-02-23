@@ -4,7 +4,7 @@
 
 > Todo List APP built with Laravel & React/Redux
 
-![screenshot](https://github.com/mirasrobert/Laravel-React-TodoList/blob/main/public/image/TODOLIST_SCREENSHOT.png)
+![screenshot](https://github.com/mirasrobert/Laravel-React-TodoList/blob/main/public/images/TODOLIST_SCREENSHOT.png)
 
 ## Features
 
